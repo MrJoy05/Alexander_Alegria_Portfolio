@@ -55,7 +55,7 @@ export const homePageContent: HomePageContent = {
       "Full time student from Mexico who loves building cool things using code.",
     image: identity.logo,
   },
-  role: "Student & Software Developer",
+  role: "Student & Software Engineer",
   description:
     "I'm Alexander Alegria, a full time student from Mexico who also loves building cool things using code and develop projects for companies",
   socialLinks: socialLinks,
@@ -98,13 +98,22 @@ I enjoy creating complete solutions that span both frontend and backend, ensurin
     description: `I've worked with a variety of technologies and tools to build cool things. Here are some of the projects I've worked on.`, 
     items: [
       {
-        title: "Software Developer",
+        title: "Intern It ",
         company: {
-          name: "Trainne Programer in Fletes Mexico",
-          image: "/logo.webp",
+          name: "Intern It Technical support",
+          image: "/TeLogo.png",
           url: "",
         },
-        date: "2024 - Present",
+        date: "21/10/24 - Present ",
+      },
+      {
+        title: "Programmer Full Stack",
+        company: {
+          name: "Intern Full stack In Fletes mexico",
+          image: "/FletesMexicoLogo.png",
+          url: "",
+        },
+        date: "06/04/24 - 06/08/2024 ",
       },
       {
         title: "Software Developer",
@@ -113,7 +122,7 @@ I enjoy creating complete solutions that span both frontend and backend, ensurin
           image: "/logo.webp",
           url: "",
         },
-        date: "2019 - 2021",
+        date: "2022 - 2023",
       },
     ],
   },

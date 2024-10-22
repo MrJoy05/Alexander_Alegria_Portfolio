@@ -1,5 +1,5 @@
 ---
-title: "My First Blog Post with a very long name"
+title: "Who am I my first post :)"
 pubDate: 2024-07-06 #Y-M-D
 description: "My First Post "
 author: "Alex"
